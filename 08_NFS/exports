@@ -1,0 +1,16 @@
+#
+#(1) NFS server tset
+#
+/share 192.168.10.0/24(rw,no_root_squash)
+#
+#(2) MAN Page server test
+#
+/usr/share/man 192.168.10.0/24(ro)
+#
+#(3) home Directory server test
+#
+/export/home 192.168.10.0/24(rw)
+#
+#(4)CD/DVD share test
+#
+#/run/media/root/CentOS-Stream-9-BaseOS-x86_64  192.168.10.0/24(ro)

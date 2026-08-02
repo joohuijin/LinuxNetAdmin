@@ -1,0 +1,23 @@
+
++====================================================+
+|                                                  	|
+|        Welcome to linux252.example.com          	|
+|                                                 	|
+|                                                 	|
+| This is the linux252.example.com test server.   	|
+|                                                 	|
+| If you have not already done so, make sure      	|
+| you have read the Downloading/Installation,     	|
+| FAQ, and Disclaimer links on                    	|
+| http://www.solaris254.example.com.              	|
+|                                                 	|
+| This is a restricted access system. All         	|
+| tranfers are logged.  If you disagree           	|
+| with this practice, log off now.                	|
+|                                                 	|
+| Questions go to SeoungChan Baik at              	|
+| the address given on linux252.example.com       	|
+|                                                 	|
+|                                                 	|
++====================================================+
+

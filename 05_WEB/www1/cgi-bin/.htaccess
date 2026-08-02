@@ -1,0 +1,4 @@
+AuthName        "restricted stuff"
+AuthType        Basic
+AuthUserFile    /etc/httpd/conf/mypasswd
+require         valid-user

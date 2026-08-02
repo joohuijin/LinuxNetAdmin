@@ -1,0 +1,16 @@
+$TTL 4
+@       IN SOA  ns1.com. root.com. (
+                                        10      ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+;; DNS Server
+com.            IN  NS  ns1.com.
+ns1.com.        IN  A   192.168.10.10
+
+;; Domain Delegation
+example         IN  NS  ns1.example
+ns1.example     IN  A   192.168.10.20
+test            IN  NS  ns1.test
+ns1.test        IN  A   192.168.10.30

@@ -1,0 +1,6 @@
+Include /etc/ssh/sshd_config.d/*.conf
+Port 22
+AuthorizedKeysFile	.ssh/authorized_keys
+AllowTcpForwarding yes
+GatewayPorts yes
+Subsystem	sftp	/usr/libexec/openssh/sftp-server

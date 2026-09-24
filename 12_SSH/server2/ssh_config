@@ -1,0 +1,5 @@
+Host sshserver
+    HostName 192.168.10.20
+    User root
+    IdentityFile ~/.ssh/id_rsa
+	UserKnownHostsFile ~/.ssh/my_known_hosts
